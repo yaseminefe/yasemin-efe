@@ -64,6 +64,8 @@ summary_data<- datasummary(growth + rgdp60 ~ treat*(median + mean + max + min + 
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+Answer from Berk: In Yasemin's table, and mine alike as we both got the same answer, the mean growth rate of countries with 0 revolutions(2.46) was significantly higher than countries that had more than 0 revolutions(1.68). This same effect was also reflected in the median growth rates, as within this dataset countries that had 0 revolutions had a median growth rate of 2.29, while countries with more than 0 revolutions had a median growth rate of 1.92 percent. Therefore, I can confidently say from a first glance that the number of revolutions occuring within a country had a negative effect on the growth rate of the 65 countries analyzed in the study.
+
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
